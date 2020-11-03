@@ -6,7 +6,7 @@ using NLayerProject.Core.Repositories;
 
 namespace NLayerProject.Core.UnitOfWorks
 {
-    public interface UnitOfWorks
+    public interface IUnitOfWork
     {
         IProductRepository Products { get; }
         ICategoryRepository Categories { get; }
