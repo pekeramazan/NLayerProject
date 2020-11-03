@@ -4,5 +4,6 @@ namespace NLayerProject.Core
 {
     public class Class1
     {
+        ///test
     }
 }
